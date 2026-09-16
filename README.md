@@ -1,8 +1,6 @@
-# Привет!
+# Frontend Developer and QA Automation
 
-Frontend-разработчик и QA Automation.
-
-## Стек
+## Stack
 
 **Frontend:**  
 React · Next.js · TypeScript · Zustand
@@ -10,8 +8,8 @@ React · Next.js · TypeScript · Zustand
 **Testing:**  
 Python · Selenium · Cypress · Pytest · Postman
 
-**Базы данных:**  
+**Databases:**  
 PostgreSQL · MySQL · MongoDB
 
-**Инструменты:**  
-Git · Docker · Linux 
+**Tools:**  
+Git · Docker · Linux
