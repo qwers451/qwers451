@@ -6,7 +6,7 @@
 React · Next.js · TypeScript · Zustand
 
 **Testing:**  
-Python · Selenium · Cypress · Pytest · Postman
+Python · Selenium · Cypress · Postman
 
 **Databases:**  
 PostgreSQL · MySQL · MongoDB
