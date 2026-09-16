@@ -18,5 +18,3 @@ PostgreSQL · MySQL · MongoDB
 
 **Инструменты:**  
 Git · Docker · Linux · GitHub Actions
-
-## Проекты
